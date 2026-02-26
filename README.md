@@ -9,15 +9,13 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdes-romero-4b5a24258/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()&nbsp;
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([lou.romero80@gmail.com](https://github.com/louromero))&nbsp;
+<p align="center">
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdes-romero-4b5a24258/)&nbsp;
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()&nbsp;
+   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([lou.romero80@gmail.com](https://github.com/louromero))&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/louromero">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=louromero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
   <a href="https://github.com/louromero">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=louromero&layout=compact&langs_count=8&theme=algolia"/>
   </a>
