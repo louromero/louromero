@@ -16,6 +16,8 @@
    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([lou.romero80@gmail.com](https://github.com/louromero))&nbsp;
 </p>
 
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My working tools... </h3>
+
 <p align="center">
   <a href="https://github.com/louromero">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=louromero&layout=compact&langs_count=8&theme=algolia"/>
